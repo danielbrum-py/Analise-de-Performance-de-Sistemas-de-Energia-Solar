@@ -63,14 +63,8 @@ A proposta é transformar dados brutos em informações úteis para análise e t
 ---
 
 ## 📷 Visualizações
-### 📈 Grafico de Energia Gerada por Dia
-![geração diaria](Grafico_Energia_gerada_pdia.png)
-
-### ⌚ Media de Geração de Energia por Hora
-![geração hora](Media_de_geração_de_energia_por_hora_do_dia.png)
-
-### ☀️ Total de Energia Gerada por Cada Painel
-![geração p/ painel](Total_de_energia_gerada_por_painel.png)
+### 📈 Grafico de Energia Gerada por Dia / ⌚ Media de Geração de Energia por Hora / ☀️ Total de Energia Gerada por Cada Painel
+![Dashboard](Dashboard.png)
 
 ### 🧾 KPIs Criadas
 ![KPIs](KPIs.png)
